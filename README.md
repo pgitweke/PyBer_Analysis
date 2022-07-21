@@ -2,7 +2,7 @@
 
 ## Overview of Project
  
-The purpose of this project is to use python and pandas to create a summary DataFrame of ride sharing data by city type (Rural, Urban and Suburban). Finally, matplotlib is used to create a multiple-line graph that shows the total weekly fares for each city type.
+The purpose of this project is to use python and pandas to create a summary DataFrame of ride sharing data by city type (Rural, Urban and Suburban). Finally, matplotlib is used to create a multiple-line graph that shows the total weekly fares for each city type over a period of time.
 
 ### Results
 
